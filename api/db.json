@@ -1,0 +1,48 @@
+{
+  "historias": [
+    {
+      "fecha": "12-03-21",
+      "hora": "11:50pm",
+      "id": "9876",
+      "name": "Juan ",
+      "apellidos": "Perez",
+      "eps": "Sanitas",
+      "estadoCivil": "3",
+      "medicoTratante": "Pedro",
+      "observaciones": "Grave "
+    }
+  ],
+  "users": [
+    {
+      "id": "111",
+      "name": "Santiago",
+      "apellidos": "Lopez",
+      "direccion": "Calle 80",
+      "contacto": "3145896121",
+      "email": "santi1@hotmail.com",
+      "password": "111",
+      "rol": 1,
+      "apellido": "San"
+    },
+    {
+      "email": "any@gmail.com",
+      "password": "222",
+      "id": "222",
+      "name": "Any",
+      "apellido": "Lobo",
+      "direccion": "Carrera 20",
+      "contacto": "3450921367",
+      "rol": 2
+    },
+    {
+      "id": "0000",
+      "name": "admin",
+      "apellido": "admin",
+      "direccion": "admin",
+      "contacto": "admin",
+      "email": "admin@admin.com",
+      "password": "admin",
+      "rol": 1
+    }
+  ]
+}
